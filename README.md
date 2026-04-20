@@ -7,7 +7,9 @@ EarMatch is an app where you can search for albums, log them in your own persona
 
 # API
 
-I used the Spotify API for this app.
+I used the Spotify API for this app. The endpoints I used are: 
+- **POST https://accounts.spotify.com/api/token** to fetch an access token using my client ID and secret.
+- **GET https://api.spotify.com/v1/search** to search for albums by query
 
 # Features
 
