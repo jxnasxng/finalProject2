@@ -20,14 +20,14 @@ I used the Spotify API for this app. The endpoints I used are:
 # Functionality
 
 Home Screen
-<img width="363" height="628" alt="Screenshot 2026-04-20 at 5 02 38 PM" src="https://github.com/user-attachments/assets/7dc10f37-e0be-4e0f-9d70-d0e7d42497df" />
-<img width="375" height="638" alt="Screenshot 2026-04-20 at 5 02 51 PM" src="https://github.com/user-attachments/assets/8d624ce3-ab79-4253-8502-b2143e18fc8a" />
+<img width="181.5" height="314" alt="Screenshot 2026-04-20 at 5 02 38 PM" src="https://github.com/user-attachments/assets/7dc10f37-e0be-4e0f-9d70-d0e7d42497df" />
+<img width="181.5" height="314" alt="Screenshot 2026-04-20 at 5 02 51 PM" src="https://github.com/user-attachments/assets/8d624ce3-ab79-4253-8502-b2143e18fc8a" />
 
 Albums
-<img width="354" height="640" alt="Screenshot 2026-04-20 at 5 04 08 PM" src="https://github.com/user-attachments/assets/38c49623-2dff-4546-bf11-604dad03e1aa" />
-<img width="359" height="632" alt="Screenshot 2026-04-20 at 5 03 05 PM" src="https://github.com/user-attachments/assets/56eac04c-49c1-4b65-b72f-52377a2e39a5" />
+<img width="181.5" height="314" alt="Screenshot 2026-04-20 at 5 04 08 PM" src="https://github.com/user-attachments/assets/38c49623-2dff-4546-bf11-604dad03e1aa" />
+<img width="181.5" height="314" alt="Screenshot 2026-04-20 at 5 03 05 PM" src="https://github.com/user-attachments/assets/56eac04c-49c1-4b65-b72f-52377a2e39a5" />
 
-Profile<img width="375" height="628" alt="Screenshot 2026-04-20 at 5 03 22 PM" src="https://github.com/user-attachments/assets/6a1950fe-3950-41e7-88a3-486e439a7a57" />
+Profile<img width="181.5" height="314" alt="Screenshot 2026-04-20 at 5 03 22 PM" src="https://github.com/user-attachments/assets/6a1950fe-3950-41e7-88a3-486e439a7a57" />
 
 Demo Video
 
