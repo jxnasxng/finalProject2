@@ -13,10 +13,9 @@ I used the Spotify API for this app. The endpoints I used are:
 
 # Features
 
-*Search*: The app's main feature is the search bar, in which the user can search either an album or artist. Up to 10 results show up.
-
-*Review*: 
+- **Search**: The app's main feature is the search bar, in which the user can search either an album or artist. Up to 10 results show up.
+- **Review**: 
 
 # Obstacles
 
-I struggled with trying to find out how to properly use the Spotify API. In the future, I want to focus on making a more aesthetically pleasing 
+I struggled with trying to find out how to properly use the Spotify API. Since I was focusing on making sure that my app was actually functional, I neglected the visual aspect of the app. In the future, I would want to focus more on creating a visually pleasing app.
